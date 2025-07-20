@@ -1,4 +1,4 @@
-const argv = processs.argv[2];
+const argv = process.argv[2];
 if (argv === undefined){
 	console.log ("No argument");
 }else{
