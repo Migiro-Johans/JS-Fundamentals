@@ -1,5 +1,4 @@
 let Argument = console.log(process.argv);
-// To check for arguments 
 if (process.argv.length ===2){
 	console.log("No Argument")
 }
